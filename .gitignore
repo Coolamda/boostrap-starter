@@ -1,4 +1,6 @@
-
+src/fonts/
+src/css/
+src/js/
 # Created by https://www.gitignore.io/api/node
 
 ### Node ###
